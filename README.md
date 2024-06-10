@@ -9,15 +9,15 @@
         <img src="https://komarev.com/ghpvc/?username=madtriceps&label=Profile%20views&color=0e75b6&style=flat" alt="madtriceps" />
       </p>
       <p>
-        - 🌱 I’m currently learning **Java Full Stack Development**
+        - 🌱 I’m currently learning <strong>Java Full Stack Development</strong>
         <br>
-        - 📝 I regularly write articles on **Full Stack Development & Data Analysis**
+        - 📝 I regularly write articles on <strong>Full Stack Development & Data Analysis</strong>
         <br>
-        - 💬 Ask me about **Core Java,Springboot,React,Angular**
+        - 💬 Ask me about <strong>Core Java,Springboot,React,Angular</strong>
         <br>
-        - 📫 How to reach me **jmadhav638@gmail.com**
+        - 📫 How to reach me <strong>jmadhav638@gmail.com</strong>
         <br>
-        - ⚡ Fun fact **I am a passionate learner & curious kid.**
+        - ⚡ Fun fact <strong>I am a passionate learner & curious kid.</strong>
       </p>
     </td>
     <td>
