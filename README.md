@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
-- 📝 I regularly write articles on [FullStack Development](FullStack Development)
+- 📝 I regularly write articles on **Full Stack Development & Data Analysis**
 
 - 💬 Ask me about **Core Java,Springboot,React,Angular**
 
